@@ -1,0 +1,66 @@
+pluginManagement {
+    repositories {
+        **ARTIFACTORYREPOSITORY**
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+
+include ':launcher', ':unityLibrary'
+**INCLUDES**
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+    repositories {
+        **ARTIFACTORYREPOSITORY**
+        google()
+        mavenCentral()
+// Android Resolver Repos Start
+        def unityProjectPath = $/file:///**DIR_UNITYPROJECT**/$.replace("\\", "/")
+        maven {
+            url "https://maven.google.com/" // Assets/Editor/LevelPlayNetworksDependencies.xml:11, Assets/Editor/LevelPlayNetworksDependencies.xml:20, Assets/Editor/LevelPlayNetworksDependencies.xml:29, Assets/Editor/LevelPlayNetworksDependencies.xml:38, Assets/Editor/LevelPlayNetworksDependencies.xml:47, Assets/Editor/LevelPlayNetworksDependencies.xml:56, Assets/Editor/LevelPlayNetworksDependencies.xml:65, Assets/Editor/LevelPlayNetworksDependencies.xml:83, Assets/Editor/LevelPlayNetworksDependencies.xml:92, Assets/Editor/LevelPlayNetworksDependencies.xml:101, Assets/Editor/LevelPlayNetworksDependencies.xml:137, Assets/Editor/LevelPlayNetworksDependencies.xml:146, Assets/Editor/LevelPlayNetworksDependencies.xml:173, Assets/Editor/LevelPlayNetworksDependencies.xml:182, Assets/Editor/LevelPlayNetworksDependencies.xml:191, Assets/Editor/LevelPlayNetworksDependencies.xml:200, Assets/Editor/LevelPlayNetworksDependencies.xml:209, Assets/Editor/LevelPlayNetworksDependencies.xml:218, Assets/Editor/LevelPlayNetworksDependencies.xml:227, Assets/Editor/LevelPlayNetworksDependencies.xml:236, Assets/Editor/LevelPlayNetworksDependencies.xml:245, Assets/Editor/LevelPlayNetworksDependencies.xml:254, Assets/Editor/LevelPlayNetworksDependencies.xml:263, Assets/Editor/LevelPlayNetworksDependencies.xml:272, Assets/LevelPlay/Editor/IronSourceSDKDependencies.xml:12, Assets/LevelPlay/Editor/ISAdMobAdapterDependencies.xml:8, Assets/LevelPlay/Editor/ISInMobiAdapterDependencies.xml:16, Assets/LevelPlay/Editor/ISMintegralAdapterDependencies.xml:15
+        }
+        maven {
+            url "https://dl-maven-android.mintegral.com/repository/mbridge_android_sdk_oversea/" // Assets/LevelPlay/Editor/ISMintegralAdapterDependencies.xml:8
+        }
+        maven {
+            url "https://maven.ogury.co" // Assets/LevelPlay/Editor/ISOguryAdapterDependencies.xml:12, Assets/Editor/LevelPlayNetworksDependencies.xml:11, Assets/Editor/LevelPlayNetworksDependencies.xml:20, Assets/Editor/LevelPlayNetworksDependencies.xml:29, Assets/Editor/LevelPlayNetworksDependencies.xml:38, Assets/Editor/LevelPlayNetworksDependencies.xml:47, Assets/Editor/LevelPlayNetworksDependencies.xml:56, Assets/Editor/LevelPlayNetworksDependencies.xml:65, Assets/Editor/LevelPlayNetworksDependencies.xml:83, Assets/Editor/LevelPlayNetworksDependencies.xml:92, Assets/Editor/LevelPlayNetworksDependencies.xml:101, Assets/Editor/LevelPlayNetworksDependencies.xml:137, Assets/Editor/LevelPlayNetworksDependencies.xml:146, Assets/Editor/LevelPlayNetworksDependencies.xml:173, Assets/Editor/LevelPlayNetworksDependencies.xml:182, Assets/Editor/LevelPlayNetworksDependencies.xml:191, Assets/Editor/LevelPlayNetworksDependencies.xml:200, Assets/Editor/LevelPlayNetworksDependencies.xml:209, Assets/Editor/LevelPlayNetworksDependencies.xml:218, Assets/Editor/LevelPlayNetworksDependencies.xml:227, Assets/Editor/LevelPlayNetworksDependencies.xml:236, Assets/Editor/LevelPlayNetworksDependencies.xml:245, Assets/Editor/LevelPlayNetworksDependencies.xml:254, Assets/Editor/LevelPlayNetworksDependencies.xml:263, Assets/Editor/LevelPlayNetworksDependencies.xml:272
+        }
+        maven {
+            url "https://artifactory.bidmachine.io/bidmachine" // Assets/LevelPlay/Editor/ISBidMachineAdapterDependencies.xml:12
+        }
+        maven {
+            url "https://cboost.jfrog.io/artifactory/chartboost-ads/" // Assets/LevelPlay/Editor/ISChartboostAdapterDependencies.xml:12, Assets/Editor/LevelPlayNetworksDependencies.xml:11, Assets/Editor/LevelPlayNetworksDependencies.xml:20, Assets/Editor/LevelPlayNetworksDependencies.xml:29, Assets/Editor/LevelPlayNetworksDependencies.xml:38, Assets/Editor/LevelPlayNetworksDependencies.xml:47, Assets/Editor/LevelPlayNetworksDependencies.xml:56, Assets/Editor/LevelPlayNetworksDependencies.xml:65, Assets/Editor/LevelPlayNetworksDependencies.xml:83, Assets/Editor/LevelPlayNetworksDependencies.xml:92, Assets/Editor/LevelPlayNetworksDependencies.xml:101, Assets/Editor/LevelPlayNetworksDependencies.xml:137, Assets/Editor/LevelPlayNetworksDependencies.xml:146, Assets/Editor/LevelPlayNetworksDependencies.xml:173, Assets/Editor/LevelPlayNetworksDependencies.xml:182, Assets/Editor/LevelPlayNetworksDependencies.xml:191, Assets/Editor/LevelPlayNetworksDependencies.xml:200, Assets/Editor/LevelPlayNetworksDependencies.xml:209, Assets/Editor/LevelPlayNetworksDependencies.xml:218, Assets/Editor/LevelPlayNetworksDependencies.xml:227, Assets/Editor/LevelPlayNetworksDependencies.xml:236, Assets/Editor/LevelPlayNetworksDependencies.xml:245, Assets/Editor/LevelPlayNetworksDependencies.xml:254, Assets/Editor/LevelPlayNetworksDependencies.xml:263, Assets/Editor/LevelPlayNetworksDependencies.xml:272
+        }
+        maven {
+            url "https://artifact.bytedance.com/repository/pangle/" // Assets/LevelPlay/Editor/ISPangleAdapterDependencies.xml:12
+        }
+        maven {
+            url "https://repo.pubmatic.com/artifactory/public-repos" // Assets/LevelPlay/Editor/ISPubMaticAdapterDependencies.xml:12, Assets/Editor/LevelPlayNetworksDependencies.xml:11, Assets/Editor/LevelPlayNetworksDependencies.xml:20, Assets/Editor/LevelPlayNetworksDependencies.xml:29, Assets/Editor/LevelPlayNetworksDependencies.xml:38, Assets/Editor/LevelPlayNetworksDependencies.xml:47, Assets/Editor/LevelPlayNetworksDependencies.xml:56, Assets/Editor/LevelPlayNetworksDependencies.xml:65, Assets/Editor/LevelPlayNetworksDependencies.xml:83, Assets/Editor/LevelPlayNetworksDependencies.xml:92, Assets/Editor/LevelPlayNetworksDependencies.xml:101, Assets/Editor/LevelPlayNetworksDependencies.xml:137, Assets/Editor/LevelPlayNetworksDependencies.xml:146, Assets/Editor/LevelPlayNetworksDependencies.xml:173, Assets/Editor/LevelPlayNetworksDependencies.xml:182, Assets/Editor/LevelPlayNetworksDependencies.xml:191, Assets/Editor/LevelPlayNetworksDependencies.xml:200, Assets/Editor/LevelPlayNetworksDependencies.xml:209, Assets/Editor/LevelPlayNetworksDependencies.xml:218, Assets/Editor/LevelPlayNetworksDependencies.xml:227, Assets/Editor/LevelPlayNetworksDependencies.xml:236, Assets/Editor/LevelPlayNetworksDependencies.xml:245, Assets/Editor/LevelPlayNetworksDependencies.xml:254, Assets/Editor/LevelPlayNetworksDependencies.xml:263, Assets/Editor/LevelPlayNetworksDependencies.xml:272
+        }
+        maven {
+            url "https://s3.amazonaws.com/smaato-sdk-releases/" // Assets/LevelPlay/Editor/ISSmaatoAdapterDependencies.xml:8, Assets/LevelPlay/Editor/ISSmaatoAdapterDependencies.xml:13, Assets/LevelPlay/Editor/ISSmaatoAdapterDependencies.xml:18, Assets/LevelPlay/Editor/ISSmaatoAdapterDependencies.xml:23
+        }
+        maven {
+            url "https://aa-sdk.s3-eu-west-1.amazonaws.com/android_repo/" // Assets/LevelPlay/Editor/ISSuperAwesomeAdapterDependencies.xml:8
+        }
+        maven {
+            url "https://verve.jfrog.io/artifactory/verve-gradle-release" // Assets/LevelPlay/Editor/ISVerveAdapterDependencies.xml:12
+        }
+        maven {
+            url "https://framework.voodoo-adn.com/android/release/apps" // Assets/LevelPlay/Editor/ISVoodooAdapterDependencies.xml:12
+        }
+        maven {
+            url "https://ysonetwork.s3.eu-west-3.amazonaws.com/sdk/android" // Assets/LevelPlay/Editor/ISYSOAdapterDependencies.xml:12
+        }
+        maven {
+            url "https://dl-maven-android.mintegral.com/repository/mbridge_android_sdk_oversea" // Assets/Editor/LevelPlayNetworksDependencies.xml:11, Assets/Editor/LevelPlayNetworksDependencies.xml:20, Assets/Editor/LevelPlayNetworksDependencies.xml:29, Assets/Editor/LevelPlayNetworksDependencies.xml:38, Assets/Editor/LevelPlayNetworksDependencies.xml:47, Assets/Editor/LevelPlayNetworksDependencies.xml:56, Assets/Editor/LevelPlayNetworksDependencies.xml:65, Assets/Editor/LevelPlayNetworksDependencies.xml:83, Assets/Editor/LevelPlayNetworksDependencies.xml:92, Assets/Editor/LevelPlayNetworksDependencies.xml:101, Assets/Editor/LevelPlayNetworksDependencies.xml:137, Assets/Editor/LevelPlayNetworksDependencies.xml:146, Assets/Editor/LevelPlayNetworksDependencies.xml:173, Assets/Editor/LevelPlayNetworksDependencies.xml:182, Assets/Editor/LevelPlayNetworksDependencies.xml:191, Assets/Editor/LevelPlayNetworksDependencies.xml:200, Assets/Editor/LevelPlayNetworksDependencies.xml:209, Assets/Editor/LevelPlayNetworksDependencies.xml:218, Assets/Editor/LevelPlayNetworksDependencies.xml:227, Assets/Editor/LevelPlayNetworksDependencies.xml:236, Assets/Editor/LevelPlayNetworksDependencies.xml:245, Assets/Editor/LevelPlayNetworksDependencies.xml:254, Assets/Editor/LevelPlayNetworksDependencies.xml:263, Assets/Editor/LevelPlayNetworksDependencies.xml:272
+        }
+        mavenLocal()
+// Android Resolver Repos End
+        flatDir {
+            dirs "${project(':unityLibrary').projectDir}/libs"
+        }
+    }
+}

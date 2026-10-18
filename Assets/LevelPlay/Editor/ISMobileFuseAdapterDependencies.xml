@@ -1,0 +1,18 @@
+<dependencies>
+  <unityversion>5.6.0.0</unityversion>
+  <androidPackages>
+    <androidPackage spec="com.unity3d.ads-mediation:mobilefuse-adapter:5.4.0">
+    </androidPackage>
+  </androidPackages>
+  <androidPackages>
+    <androidPackage spec="com.mobilefuse.sdk:mobilefuse-sdk-core:1.12.0">
+    </androidPackage>
+  </androidPackages>
+  <iosPods>
+    <iosPod name="IronSourceMobileFuseAdapter" version="5.5.0.0">
+      <sources>
+        <source>https://github.com/CocoaPods/Specs</source>
+      </sources>
+    </iosPod>
+  </iosPods>
+</dependencies>

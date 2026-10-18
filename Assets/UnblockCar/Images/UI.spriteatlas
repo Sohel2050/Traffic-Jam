@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 4
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7355e90ca0c9e994ea3029263932f108, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 28fb41800d8cff1459d3c5b998f2d8a1: -2429919002490121231
+    - d537d611978eca64981f2b17add1e74a: 21300000
+    - 2fec04213f07c4af7917b906a3beb086: 21300000
+    - 4f0111d16ef274c2e93851f5751e44ce: 21300000
+    - b9bf37242e9344a49aa6221bad416107: 21300000
+    - 487b103410079491a950307d3bc63f5a: 21300000
+    - 3624355408b740f46abd275388934d53: 21300000
+    - e775fd547d1b1e145b8001efd8ffc462: 21300000
+    - 5dec3c3565d3b44b6a0e4f60fa8a9f38: 21300000
+    - 04298b856b0638f4cb25569fa44ef0bd: 21300000
+    - dfa93d0695a869844a413352eefbc590: 21300000
+    - a77c1f26dd7aa4743a4ec3b58e408155: 21300000
+    - d3648a66d58042547a2398d24da4c105: 21300000
+    - 03be947786ead48aa986125d852f63eb: 21300000
+    - b46f8c581b54c9b4e907950329a57d39: 21300000
+    - a59be1e88418e4f1eada1303f50cdb8a: 21300000
+    - 570148f8237f6b04486d7cb542f40491: 21300000
+    - 9d5cb8f933fd2724d99b65992bfa0a9e: 21300000
+    - fe61d6ca77c02452aa5204d4d41bbd33: 21300000
+    - 627394ab79eef4140812f492f2fbabc1: 21300000
+    - aef6153c808ce4aa38b8c8fb91f6e9e5: 21300000
+    - 4cf3ef5ce725d6f4b8c1224054093d8a: 21300000
+    - 7215b05e5062e0a4c999ab3d0550dab3: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -2429919002490121231, guid: 28fb41800d8cff1459d3c5b998f2d8a1, type: 3}
+  - {fileID: 21300000, guid: d537d611978eca64981f2b17add1e74a, type: 3}
+  - {fileID: 21300000, guid: 2fec04213f07c4af7917b906a3beb086, type: 3}
+  - {fileID: 21300000, guid: 4f0111d16ef274c2e93851f5751e44ce, type: 3}
+  - {fileID: 21300000, guid: b9bf37242e9344a49aa6221bad416107, type: 3}
+  - {fileID: 21300000, guid: 487b103410079491a950307d3bc63f5a, type: 3}
+  - {fileID: 21300000, guid: 3624355408b740f46abd275388934d53, type: 3}
+  - {fileID: 21300000, guid: e775fd547d1b1e145b8001efd8ffc462, type: 3}
+  - {fileID: 21300000, guid: 5dec3c3565d3b44b6a0e4f60fa8a9f38, type: 3}
+  - {fileID: 21300000, guid: 04298b856b0638f4cb25569fa44ef0bd, type: 3}
+  - {fileID: 21300000, guid: dfa93d0695a869844a413352eefbc590, type: 3}
+  - {fileID: 21300000, guid: a77c1f26dd7aa4743a4ec3b58e408155, type: 3}
+  - {fileID: 21300000, guid: d3648a66d58042547a2398d24da4c105, type: 3}
+  - {fileID: 21300000, guid: 03be947786ead48aa986125d852f63eb, type: 3}
+  - {fileID: 21300000, guid: b46f8c581b54c9b4e907950329a57d39, type: 3}
+  - {fileID: 21300000, guid: a59be1e88418e4f1eada1303f50cdb8a, type: 3}
+  - {fileID: 21300000, guid: 570148f8237f6b04486d7cb542f40491, type: 3}
+  - {fileID: 21300000, guid: 9d5cb8f933fd2724d99b65992bfa0a9e, type: 3}
+  - {fileID: 21300000, guid: fe61d6ca77c02452aa5204d4d41bbd33, type: 3}
+  - {fileID: 21300000, guid: 627394ab79eef4140812f492f2fbabc1, type: 3}
+  - {fileID: 21300000, guid: aef6153c808ce4aa38b8c8fb91f6e9e5, type: 3}
+  - {fileID: 21300000, guid: 4cf3ef5ce725d6f4b8c1224054093d8a, type: 3}
+  - {fileID: 21300000, guid: 7215b05e5062e0a4c999ab3d0550dab3, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - arrows_0
+  - wheel
+  - spark
+  - tile_pink
+  - car_shadow_b
+  - viewport2
+  - tile_grid_b
+  - hand
+  - eff_star
+  - board_level_highLight
+  - hint_outLine
+  - circle
+  - rope
+  - star_1
+  - car_shadow_a
+  - hud_panel
+  - board_daily_HightLight
+  - star_small
+  - star_2
+  - welldone
+  - viewport
+  - tile_grid_a
+  - board_package_level
+  m_RenderDataMap: {}
+  m_Tag: UI
+  m_IsVariant: 0

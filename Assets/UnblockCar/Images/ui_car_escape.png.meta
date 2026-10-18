@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 8748e12b0e1534e299c4b534028813bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5625683870816686232
+    second: ui_car_escape_0
+  - first:
+      213: -2732636774913947287
+    second: ui_car_escape_1
+  - first:
+      213: 558848748734345275
+    second: ui_car_escape_2
+  - first:
+      213: -8054295720581688757
+    second: ui_car_escape_3
+  - first:
+      213: 6201082454913359715
+    second: ui_car_escape_4
+  - first:
+      213: -3768767389714015670
+    second: ui_car_escape_5
+  - first:
+      213: 8524200549247988333
+    second: ui_car_escape_6
+  - first:
+      213: -1334116435056527339
+    second: ui_car_escape_7
+  - first:
+      213: -7311157218195133041
+    second: ui_car_escape_8
+  - first:
+      213: -1594388560688223487
+    second: ui_car_escape_9
+  - first:
+      213: 6680671626880679444
+    second: ui_car_escape_10
+  - first:
+      213: 7910456558021250402
+    second: ui_car_escape_11
+  - first:
+      213: -4931793037931906681
+    second: ui_car_escape_12
+  - first:
+      213: 4271931313096496786
+    second: ui_car_escape_13
+  - first:
+      213: 8903864462491589885
+    second: ui_car_escape_14
+  - first:
+      213: -1084797847019364620
+    second: ui_car_escape_15
+  - first:
+      213: 1269377494753641752
+    second: ui_car_escape_16
+  - first:
+      213: 1310867362379231884
+    second: ui_car_escape_17
+  - first:
+      213: 5890969089021890054
+    second: ui_car_escape_18
+  - first:
+      213: 5289621390925474477
+    second: ui_car_escape_19
+  - first:
+      213: 6576104099716283554
+    second: ui_car_escape_20
+  - first:
+      213: 3802128052567697521
+    second: ui_car_escape_21
+  - first:
+      213: 7703519983664928686
+    second: ui_car_escape_22
+  - first:
+      213: -5756859910929629109
+    second: ui_car_escape_23
+  - first:
+      213: 5185753472363460883
+    second: ui_car_escape_24
+  - first:
+      213: -2985320580500618112
+    second: ui_car_escape_25
+  - first:
+      213: -8289886872135721192
+    second: ui_car_escape_26
+  - first:
+      213: 3863788101632827937
+    second: ui_car_escape_27
+  - first:
+      213: 4335232812813777527
+    second: ui_car_escape_28
+  - first:
+      213: 7555916954539647589
+    second: ui_car_escape_29
+  - first:
+      213: 5739121434336434232
+    second: ui_car_escape_30
+  - first:
+      213: 1811010227377057807
+    second: ui_car_escape_31
+  - first:
+      213: -1644460833751080712
+    second: ui_car_escape_32
+  - first:
+      213: -6367929769958054112
+    second: ui_car_escape_33
+  - first:
+      213: 784121073589719697
+    second: ui_car_escape_34
+  - first:
+      213: 4195042227743649985
+    second: ui_car_escape_35
+  - first:
+      213: -8248266334593706389
+    second: ui_car_escape_36
+  - first:
+      213: -2548464457717693301
+    second: ui_car_escape_37
+  - first:
+      213: 52809928392686653
+    second: ui_car_escape_38
+  - first:
+      213: -4961194653228458791
+    second: ui_car_escape_39
+  - first:
+      213: 7392551146781373045
+    second: ui_car_escape_40
+  - first:
+      213: 3099835391228199456
+    second: ui_car_escape_41
+  - first:
+      213: 5702534916889705263
+    second: ui_car_escape_42
+  - first:
+      213: -1577795176694133095
+    second: ui_car_escape_43
+  - first:
+      213: -7258603506371945073
+    second: ui_car_escape_44
+  - first:
+      213: -104915469040442620
+    second: ui_car_escape_45
+  - first:
+      213: 7256076978729412025
+    second: ui_car_escape_46
+  - first:
+      213: 4316019272174985387
+    second: ui_car_escape_47
+  - first:
+      213: 2063608288641599361
+    second: ui_car_escape_48
+  - first:
+      213: 3101944071430630468
+    second: ui_car_escape_49
+  - first:
+      213: 1491795666212556135
+    second: ui_car_escape_50
+  - first:
+      213: -3781802297030972320
+    second: ui_car_escape_51
+  - first:
+      213: -173118835697166687
+    second: ui_car_escape_52
+  - first:
+      213: 9188983186772391113
+    second: ui_car_escape_53
+  - first:
+      213: 798077659087782710
+    second: ui_car_escape_54
+  - first:
+      213: 6377057624474903760
+    second: ui_car_escape_55
+  - first:
+      213: -6376003791601955943
+    second: ui_car_escape_56
+  - first:
+      213: 8283279829230909373
+    second: ui_car_escape_57
+  - first:
+      213: -8473673250802110542
+    second: ui_car_escape_58
+  - first:
+      213: -8291628086079741382
+    second: ui_car_escape_59
+  - first:
+      213: 67308094656774493
+    second: ui_car_escape_60
+  - first:
+      213: -4134623836521164187
+    second: ui_car_escape_61
+  - first:
+      213: 7614271764154791920
+    second: ui_car_escape_62
+  - first:
+      213: -3561049367165040072
+    second: ui_car_escape_63
+  - first:
+      213: -2754615137177574287
+    second: ui_car_escape_64
+  - first:
+      213: 5300515125999420257
+    second: ui_car_escape_65
+  - first:
+      213: -4031779339208294808
+    second: ui_car_escape_66
+  - first:
+      213: -2105802115813006101
+    second: ui_car_escape_67
+  - first:
+      213: -7193154110870521911
+    second: ui_car_escape_68
+  - first:
+      213: -3949335633140214798
+    second: ui_car_escape_69
+  - first:
+      213: -7362636053547791895
+    second: ui_car_escape_70
+  - first:
+      213: -2601526623699550896
+    second: ui_car_escape_71
+  - first:
+      213: 6454562090548554908
+    second: ui_car_escape_72
+  - first:
+      213: -2172581495614360931
+    second: ui_car_escape_73
+  - first:
+      213: -835102773307907079
+    second: ui_car_escape_74
+  - first:
+      213: -2479059983087029781
+    second: ui_car_escape_75
+  - first:
+      213: 5857264732953703507
+    second: ui_car_escape_76
+  - first:
+      213: 6940201010056268067
+    second: ui_car_escape_77
+  - first:
+      213: -4017919696998920853
+    second: ui_car_escape_78
+  - first:
+      213: -211987525404232624
+    second: ui_car_escape_79
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ui_car_escape_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 409
+        width: 590
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fa35d535e8de1b0800000000000000
+      internalID: -5625683870816686232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_car_escape_1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 101
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969c513d459b31ad0800000000000000
+      internalID: -2732636774913947287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_car_escape_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 36
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b307b7fd9fd61c700800000000000000
+      internalID: 558848748734345275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_car_escape_3
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 4
+        width: 62
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4297c237b4693090800000000000000
+      internalID: -8054295720581688757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_car_escape_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 56
+        width: 41
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f940453abae0650800000000000000
+      internalID: 6201082454913359715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_car_escape_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 58
+        width: 39
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a150fd606a2bbc0800000000000000
+      internalID: -3768767389714015670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_car_escape_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 63
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62bd148c3b0c4670800000000000000
+      internalID: 8524200549247988333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_car_escape_7
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 9
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518f177bb244c7de0800000000000000
+      internalID: -1334116435056527339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_car_escape_8
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 12
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d22780f3d898a90800000000000000
+      internalID: -7311157218195133041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_car_escape_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 15
+        width: 121
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b6b3e2d089fd9e0800000000000000
+      internalID: -1594388560688223487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_car_escape_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 4
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ef04de27386bc50800000000000000
+      internalID: 6680671626880679444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_car_escape_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 4
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d0400045697cd60800000000000000
+      internalID: 7910456558021250402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ui_car_escape_0: -5625683870816686232
+      ui_car_escape_1: -2732636774913947287
+      ui_car_escape_10: 6680671626880679444
+      ui_car_escape_11: 7910456558021250402
+      ui_car_escape_2: 558848748734345275
+      ui_car_escape_3: -8054295720581688757
+      ui_car_escape_4: 6201082454913359715
+      ui_car_escape_5: -3768767389714015670
+      ui_car_escape_6: 8524200549247988333
+      ui_car_escape_7: -1334116435056527339
+      ui_car_escape_8: -7311157218195133041
+      ui_car_escape_9: -1594388560688223487
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

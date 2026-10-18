@@ -1,0 +1,34 @@
+<dependencies>
+  <unityversion>5.14.0.0</unityversion>
+  <androidPackages>
+    <androidPackage spec="com.smaato.android.sdk:smaato-sdk-banner:23.2.3">
+      <repositories>
+        <repository>https://s3.amazonaws.com/smaato-sdk-releases/</repository>
+      </repositories>
+    </androidPackage>
+    <androidPackage spec="com.smaato.android.sdk:smaato-sdk-interstitial:23.2.3">
+      <repositories>
+        <repository>https://s3.amazonaws.com/smaato-sdk-releases/</repository>
+      </repositories>
+    </androidPackage>
+    <androidPackage spec="com.smaato.android.sdk:smaato-sdk-rewarded-ads:23.2.3">
+      <repositories>
+        <repository>https://s3.amazonaws.com/smaato-sdk-releases/</repository>
+      </repositories>
+    </androidPackage>
+    <androidPackage spec="com.smaato.android.sdk:smaato-sdk-in-app-bidding:23.2.3">
+      <repositories>
+        <repository>https://s3.amazonaws.com/smaato-sdk-releases/</repository>
+      </repositories>
+    </androidPackage>
+    <androidPackage spec="com.unity3d.ads-mediation:smaato-adapter:5.7.0">
+    </androidPackage>
+  </androidPackages>
+  <iosPods>
+    <iosPod name="IronSourceSmaatoAdapter" version="5.7.0.0">
+      <sources>
+        <source>https://github.com/CocoaPods/Specs</source>
+      </sources>
+    </iosPod>
+  </iosPods>
+</dependencies>
